@@ -1,0 +1,6 @@
+node_modules
+dist/electron/fonts
+dist/electron/imgs
+dist/electron/media
+dist/electron/static
+*.min.js

@@ -1,0 +1,92 @@
+==========================================================================================
+	Merchant of the Six Kingdoms
+==========================================================================================
+
+CHANGELOG:
+You can now add notes onto items from the journal. These notes appears on the item hover info.
+You can now highlight items from the journal. This will change the background and keep the item at the top of the inventory just behind coins.
+Sell painting scene no longer triggers when quest is not active
+Prevent quest dialgoue option and custom dialgoue options from displaying at the same time
+Fixed existing saves not allowing King of Coin to see the Dragon for free
+Return to default of using windows scaling
+Typo fixes
+
+==========================================================================================
+    Todo
+==========================================================================================
+
+	High Priority
+MARKETING: Steam description
+MARKETING: /r/gaming post
+
+	Medium Priority
+BALANCE: Balance patch
+FEATURE: Prices affected by stock
+GAMEPLAY: Fix no found offer
+FEATURE: Hard Mode
+SUPPORT: Linux
+
+	Low Priority
+SCENE: Clydesdale Translate
+SCENE: Ascension Company
+SCENE: Forts
+FEATURE: Greenworks
+
+	No Repro
+Visual item duplication (Daryoon)
+Journal toggle UI (ShabbyDoo)
+Citadel multiple tracker (BaconNCheese)
+Offers don't go through (ShabbyDoo)
+Shikyomo quest reactivates after exile (Daryoon)
+Shikyomo guard direct to taking wealth (Watever)
+Access marketplace not visible after building (Daryoon)
+Always empty shipments
+Laggy credits
+
+	Balance
+Some animals walk themselves
+Legendary potion more expensive
+Urag obtains less dragons
+Thieves obtain lockpicks
+Magic still a sellers market in The Citadel
+Lindworm too cheapl
+More expensive dragon price
+Ascension knight richer
+Shapeshifter outliers
+Blacksmiths could have more stuff
+Silver tags
+Merchants have seeds
+Oxysters cheaper
+Increase price of cows
+Rename Jewlery to Jewelry
+
+==========================================================================================
+    Build
+==========================================================================================
+
+run_app_build C:\Users\goose\Documents\steamworks_sdk_155\sdk\tools\ContentBuilder\scripts\main_build_2274480.vdf
+
+==========================================================================================
+    Notes
+==========================================================================================
+
+Steam Deck
+	Look into --use-gl=desktop as argument
+
+Ascension company
+	Espionage
+	Sabotage
+	Subversion
+
+Hard Mode
+	Increased/Varied Haggling
+	No offer matching
+	Increased frugalness
+	Reduced patience
+	Increased snitches
+	Dragon cost increased
+	Election cost increased
+	Thieves on
+	Quartermasters more stingy with coin
+	Shapeshfter more difficult
+	Horserace must win
