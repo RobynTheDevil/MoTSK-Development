@@ -8,6 +8,7 @@
   "icon": "./dist/electron/static/app_icon.ico",
   "main": "./dist/electron/main.js",
   "scripts": {
+    "start": "electron .",
     "build": "node .electron-vue/build.js",
     "build:darwin": "cross-env BUILD_TARGET=darwin node .electron-vue/build.js",
     "build:linux": "cross-env BUILD_TARGET=linux node .electron-vue/build.js",
